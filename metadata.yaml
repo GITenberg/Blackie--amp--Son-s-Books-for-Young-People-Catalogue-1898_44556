@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '36757'
     url: http://www.gutenberg.org/2009/agents/36757
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44556#Blackie--amp--Son-s-Books-for-Young-People-Catalogue-1898
 gutenberg_issued: '2014-01-01'
 gutenberg_type: Text
 identifiers:
